@@ -1,2 +1,2 @@
 # Temp-Project
-Just a first project
+Just a sample project to save to Git
